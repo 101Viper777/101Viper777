@@ -20,3 +20,11 @@
 
 
 <br><br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=101viper777&show_icons=true&locale=en&layout=compact" alt="101viper777" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=101viper777&show_icons=true&locale=en" alt="101viper777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=101viper777&" alt="101viper777" /></p>
+
