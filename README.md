@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul</h1>
-<h3 align="center">A passionate Comp Sci student in Sydney</h3>
+<h3 align="center">A passionate Comp Sci student in AU!</h3>
 
 - 🌱 I’m currently learning **more in the realm of AI and deep Learning**
 
