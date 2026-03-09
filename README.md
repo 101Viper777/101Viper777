@@ -10,8 +10,8 @@
 ### 🚀 Current Work & Leadership
 
 - 💼 **Tech Co-Founder & CEO @ Edflow.ai**: Leading the development and business strategy of an EdTech platform focused on comprehensive HSC exam analysis for schools.
-- 🚁 **Founder @ Skyviews Global**: Operating a commercial drone services company, including specialized operations like UAV surf life-saving contracts.
-- 🤖 **AI/ML Development**: Designing and training custom machine learning models, as well as building intelligent automations and internal tools to optimize workflows. 
+- 🚁 **Founder @ Skyviews Global**: Operating a commercial drone services company, including specialised operations like UAV surf life-saving contracts.
+- 🤖 **AI/ML Development**: Designing and training custom machine learning models, as well as building intelligent automations and internal tools to optimise workflows. 
 
 ### 🧠 Technical Focus
 
