@@ -11,7 +11,7 @@
 
 - 💼 **Tech Co-Founder & CEO @ Edflow.ai**: Leading the development and business strategy of an EdTech platform focused on comprehensive HSC exam analysis for schools.
 - 🚁 **Founder @ Skyviews Global**: Operating a commercial drone services company, including specialized operations like UAV surf life-saving contracts.
-- 🤖 **AI/ML Development**: Designing and training custom machine learning models, as well as building intelligent automations and internal tools to optimize workflows.
+- 🤖 **AI/ML Development**: Designing and training custom machine learning models, as well as building intelligent automations and internal tools to optimize workflows. 
 
 ### 🧠 Technical Focus
 
@@ -32,7 +32,3 @@
 <a href="https://linkedin.com/in/abdulaziz el sabbagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaziz el sabbagh" height="30" width="40" /></a>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=101viper777&" alt="GitHub Streak" />
-</p>
