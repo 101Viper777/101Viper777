@@ -32,3 +32,18 @@
 <a href="https://linkedin.com/in/abdulaziz el sabbagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaziz el sabbagh" height="30" width="40" /></a>
 </p>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=101viper777&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=101viper777&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=101Viper777&label=Profile%20Views&color=6&icon=7&pretty=true" alt="Profile Views" />
+</div>
